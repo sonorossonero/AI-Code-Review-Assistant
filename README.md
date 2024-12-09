@@ -48,7 +48,7 @@ Live Demo: [Frontend Demo](https://ai-code-review-assistant-frontend.vercel.app/
 
 ```bash
 git clone https://github.com/sonorossonero/AI-Code-Review-Assistant/
-cd code-review-assistant
+cd AI-Code-Review-Assistant
 ```
 
 2. Backend Setup
